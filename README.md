@@ -58,7 +58,7 @@ Here is a complete code snippet
         super.onCreate(savedInstanceState);
         ...
 
-        navController = Navigation.findNavController(this, R.id.nav_host_fragment);
+        NavController navController = Navigation.findNavController(this, R.id.nav_host_fragment);
 
         navOptions = new NavOptions.Builder()
                 .setLaunchSingleTop(true)
