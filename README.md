@@ -48,7 +48,6 @@ Here is the Steps to achieve the desired behavior in this case scenario;
 7. For menu items that used to navigate between the NavGraph destination, Use 
 navController.navigate(item.getItemId(), null, navOptions) to handle the navigation for you.
 8. If there is no such destination, Use Switch/Case block to differentiate between the menu items
-9. Always return true so that the OptionsMenu item is checked. 
 
 Here is a complete code snippet
 
