@@ -51,6 +51,7 @@ navController.navigate(item.getItemId(), null, navOptions) to handle the navigat
 
 Here is a complete code snippet
 
+    NavController navController;
     NavOptions navOptions;
 
     @Override
@@ -58,7 +59,7 @@ Here is a complete code snippet
         super.onCreate(savedInstanceState);
         ...
 
-        NavController navController = Navigation.findNavController(this, R.id.nav_host_fragment);
+        navController = Navigation.findNavController(this, R.id.nav_host_fragment);
 
         navOptions = new NavOptions.Builder()
                 .setLaunchSingleTop(true)
