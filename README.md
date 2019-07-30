@@ -17,6 +17,7 @@ If you are familiar with Android Jetpack Navigation Component, you will find tha
 
 As you can see here, there is no much control for you over the way of communication between the NavController and OptionsMenu. The NavigationUI class will handle everything for you starting with making the navigation when you press on a menu item, applying default animation for transition.
 
+#### NOTE: For Navigation Component to work with the menu that your are creating in the OptionsMenu, The Menu Item Id should match with the desired Destination Fragment Id
 
 
 # But What if you want to Apply Custom Transition Animations
