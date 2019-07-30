@@ -110,13 +110,16 @@ https://issuetracker.google.com/issues/138665563
 
 # What's Next ?
 
+Navigation-Component-BottomNavigationView-with-Custom-Transition-Animation-and-Navigation-Listener
+
+https://github.com/KarimRedaHassan/Navigation-Component-BottomNavigationView-with-Custom-Transition-Animation-and-Navigation-Listener
+
 Navigation-Component-DrawerLayout-with-Custom-Transition-Animation-and-Custom-Navigation-Listener
 
 https://github.com/KarimRedaHassan/Navigation-Component-DrawerLayout-with-Custom-Transition-Animation-and-Custom-Navigation-Listener
 
-Navigation-Component-BottomNavigationView-with-Custom-Transition-Animation-and-Navigation-Listener
-
-https://github.com/KarimRedaHassan/Navigation-Component-BottomNavigationView-with-Custom-Transition-Animation-and-Navigation-Listener
+Navigation-Component-TabLayout-with-Custom-Transition-Animation-and-Custom-Navigation-Listener
+https://github.com/KarimRedaHassan/Navigation-Component-TabLayout-with-Custom-Transition-Animation-and-Navigation-Listener
 
 
 # Additional Resources
